@@ -1,5 +1,0 @@
-age,admission_type,diagnosis,medications,length_of_stay,previous_admissions,readmitted
-45,emergency,diabetes,insulin,5,2,1
-60,routine,hypertension,metformin,3,1,0
-30,urgent,asthma,albuterol,2,0,1
-
